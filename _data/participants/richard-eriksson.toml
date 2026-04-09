@@ -1,0 +1,14 @@
+display = "Richard Eriksson"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "https://richard.eriksson.ca"
+title = "Richard Eriksson"
+years = [2025,2026]
+
+[[websites]]
+url   = "https://justagwailo.com"
+title = "Just a Gwai Lo"
+years = [2025,2026]
